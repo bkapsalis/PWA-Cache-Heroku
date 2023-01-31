@@ -1,0 +1,1 @@
+heroku config:set MONGODB_URI="mongodb+srv://new_user_1:5iQ9rLkLyP0Z4cYQ@leaflix-east.shuvvr9.mongodb.net/?retryWrites=true&w=majority"
